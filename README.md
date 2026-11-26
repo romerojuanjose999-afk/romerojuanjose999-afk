@@ -1,6 +1,6 @@
 # Hola, soy Juan José Romero 👋
 
-Estudiante de **Ingeniería de Sistemas** en UNIMINUTO (Ibagué), en proceso de formación en **ciberseguridad**,
+Estudiante de **Ingeniería de Sistemas** en UNIMINUTO (Ibagué), en proceso de formación,
 y productor de café en San Antonio, Tolima. Me gusta construir software que resuelva problemas
 reales del campo y de los negocios de mi región.
 
